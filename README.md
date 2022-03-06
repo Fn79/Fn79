@@ -5,6 +5,6 @@
 - 📫 How to contact me fatemeh.norouzi379@gmail.com
 
 <! ---
-fn79 / fn79 is a ✨ special مخ repository because its "README.md" (this file) appears in your GitHub profile.
+fn79 / fn79 is a ✨ special repository because its "README.md" (this file) appears in your GitHub profile.
 You can click on the preview link to see your changes.
 --->
